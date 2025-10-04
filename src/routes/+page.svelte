@@ -1,7 +1,7 @@
 <script lang="ts">
-	import BlogCard, { type Post } from '$lib/components/BlogCard.svelte';
+	import BlogCard from '$lib/components/BlogCard.svelte';
 
-	const posts: Post[] = [
+	const posts = [
 		{
 			href: '#',
 			dateTime: '2024-10-11',
