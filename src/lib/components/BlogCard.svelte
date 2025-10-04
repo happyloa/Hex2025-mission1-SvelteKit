@@ -1,5 +1,5 @@
 <script lang="ts">
-	export type Post = {
+	type Post = {
 		href: string;
 		dateTime: string;
 		dateLabel: string;
