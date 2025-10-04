@@ -11,10 +11,8 @@
 			excerpt:
 				'你是否對 React 感到好奇，卻苦惱於該如何正式啟動學習之路？身為前端工程師兼職涯諮詢師，我常遇到同學問我：「React 到底該怎麼入門？」為了幫大家減少摸索的時間，我整理出三個循序漸進的關鍵步驟，帶你更輕鬆地掌握 React 核心概念，真正把理論應用在實際專案中。',
 			img: {
-				mobile:
-					'https://github.com/hexschool/2022-web-layout-training/blob/main/2025-web-camp/mobile/blog/photo10.png?raw=true',
-				desktop:
-					'https://github.com/hexschool/2022-web-layout-training/blob/main/2025-web-camp/desktop/blog/photo4.png?raw=true',
+				mobile: '/images/blog/mobile/photo10.png',
+				desktop: '/images/blog/desktop/photo4.png',
 				alt: 'React 入門不再迷惘：三步驟帶你上手核心概念文章圖片'
 			}
 		},
@@ -27,10 +25,8 @@
 			excerpt:
 				'對正在求職的前端工程師而言，作品集往往是第一個「說話」的利器。當面試官瀏覽你的網頁作品時，能夠快速了解你的程式邏輯、設計感以及解決問題的思路。我在協助多位同學優化履歷與作品集的過程中，總結出一些關鍵要素，分享給正在打造、升級作品集的你。',
 			img: {
-				mobile:
-					'https://github.com/hexschool/2022-web-layout-training/blob/main/2025-web-camp/mobile/blog/photo1.png?raw=true',
-				desktop:
-					'https://github.com/hexschool/2022-web-layout-training/blob/main/2025-web-camp/desktop/blog/photo1.png?raw=true',
+				mobile: '/images/blog/mobile/photo1.png',
+				desktop: '/images/blog/desktop/photo1.png',
 				alt: '前端作品集打造指南文章圖片'
 			}
 		},
@@ -43,10 +39,8 @@
 			excerpt:
 				'在瀏覽器畫面上實現各種精美介面一直是前端開發充滿成就感的部分。但複雜佈局或響應式設計常讓人抓破頭皮；本文分享三大技巧，幫助你有效率地駕馭 CSS，打造兼具美感與功能性的網頁。',
 			img: {
-				mobile:
-					'https://github.com/hexschool/2022-web-layout-training/blob/main/2025-web-camp/mobile/blog/photo2.png?raw=true',
-				desktop:
-					'https://github.com/hexschool/2022-web-layout-training/blob/main/2025-web-camp/desktop/blog/photo2.png?raw=true',
+				mobile: '/images/blog/mobile/photo2.png',
+				desktop: '/images/blog/desktop/photo2.png',
 				alt: 'CSS 魔法大揭密文章圖片'
 			}
 		},
@@ -59,10 +53,8 @@
 			excerpt:
 				'自學進入前端領域聽起來振奮，但過程的挫折與疑慮常令人猶豫。本文分享轉職經驗與調適心法，提供投入前端的方向與力量。',
 			img: {
-				mobile:
-					'https://github.com/hexschool/2022-web-layout-training/blob/main/2025-web-camp/mobile/blog/photo3.png?raw=true',
-				desktop:
-					'https://github.com/hexschool/2022-web-layout-training/blob/main/2025-web-camp/desktop/blog/photo6.png?raw=true',
+				mobile: '/images/blog/mobile/photo3.png',
+				desktop: '/images/blog/desktop/photo6.png',
 				alt: '前端轉職必讀文章圖片'
 			}
 		},
@@ -76,10 +68,8 @@
 				'面試不只看程式碼，還看解題流程與溝通能力。本文分享三大難題與回應策略，幫你在面試場合更從容。',
 			popular: true,
 			img: {
-				mobile:
-					'https://github.com/hexschool/2022-web-layout-training/blob/main/2025-web-camp/mobile/blog/photo4.png?raw=true',
-				desktop:
-					'https://github.com/hexschool/2022-web-layout-training/blob/main/2025-web-camp/desktop/blog/photo3.png?raw=true',
+				mobile: '/images/blog/mobile/photo4.png',
+				desktop: '/images/blog/desktop/photo3.png',
 				alt: '前端面試不再慌文章圖片'
 			}
 		},
@@ -92,10 +82,8 @@
 			excerpt:
 				'Vue 3 導入 Composition API，大幅提升可讀性與維護性。本文帶你快速理解其特點並上手新版本思維。',
 			img: {
-				mobile:
-					'https://github.com/hexschool/2022-web-layout-training/blob/main/2025-web-camp/mobile/blog/photo5.png?raw=true',
-				desktop:
-					'https://github.com/hexschool/2022-web-layout-training/blob/main/2025-web-camp/desktop/blog/photo5.png?raw=true',
+				mobile: '/images/blog/mobile/photo5.png',
+				desktop: '/images/blog/desktop/photo5.png',
 				alt: 'Vue 3 新手指南文章圖片'
 			}
 		}
