@@ -101,3 +101,10 @@
 		</ul>
 	</main>
 </section>
+
+<svelte:head>
+	<title>部落格文章卡片設計 | SvelteKit 版本</title>
+	<meta name="description" content="六角 2025 軟體工程師體驗營" />
+	<meta property="og:title" content="部落格文章卡片設計 | SvelteKit 版本" />
+	<meta property="og:description" content="六角 2025 軟體工程師體驗營" />
+</svelte:head>
