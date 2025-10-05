@@ -21,7 +21,7 @@
 	class="group block focus:outline-none focus-visible:ring-2 focus-visible:ring-brand"
 	href={post.href}
 >
-	<article class="space-y-2">
+	<article>
 		<!-- 圖片 -->
 		<figure class="mb-4 overflow-hidden border border-border">
 			<picture>
@@ -51,10 +51,10 @@
 		</ul>
 
 		<!-- 標題 -->
-		<h3 class="text-card-title font-bold text-ink">{post.title}</h3>
+		<h3 class="mb-2 text-card-title font-bold text-ink">{post.title}</h3>
 
 		<!-- 內文（兩行截斷） -->
-		<p class="line-clamp-2 text-base font-medium text-muted">
+		<p class="mb-4 line-clamp-2 text-base font-medium text-muted">
 			{post.excerpt}
 		</p>
 
