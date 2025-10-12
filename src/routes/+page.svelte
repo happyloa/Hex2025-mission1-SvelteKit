@@ -93,7 +93,7 @@
 <section class="mx-auto max-w-page px-6 py-10 lg:px-12">
 	<main>
 		<ul
-			class="grid grid-cols-1 gap-x-6 gap-y-20 md:grid-cols-2 md:gap-x-3 md:gap-y-8 lg:grid-cols-3"
+			class="grid grid-cols-1 gap-x-6 gap-y-20 md:grid-cols-2 md:gap-x-6 md:gap-y-20 lg:grid-cols-3"
 		>
 			{#each posts as post}
 				<li><BlogCard {post} /></li>
